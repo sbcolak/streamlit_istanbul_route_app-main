@@ -1,0 +1,48 @@
+{
+    "DT1": {
+        "district": "Şişli",
+        "stops": [
+            "BEŞİKTAŞ - VADİ",
+            "BEŞİKTAŞ - ULUS MAHALLESİ",
+            "BEŞİKTAŞ - NİSPETİYE METRO",
+            "BEŞİKTAŞ - GAYRETTEPE METRO",
+            "ŞİŞLİ - ŞİŞLİ CAMİ",
+            "BEŞİKTAŞ - ÇIRAĞAN",
+            "VİYADÜK ALTI - BEŞİKTAŞ",
+            "TAKSİM - BEYOĞLU"
+        ]
+    },
+    "30A": {
+        "district": "Şişli",
+        "stops": [
+            "BEŞİKTAŞ - BEŞİKTAŞ PERONLAR",
+            "ŞİŞLİ - ALİ SAMİ YEN",
+            "ŞİŞLİ - ŞİŞLİ CAMİİ",
+            "ŞİŞLİ - NİŞANTASI",
+            "ŞİŞLİ - DOLMABAHÇE GAZHANE CADDESİ",
+            "BEŞİKTAŞ - DENİZ MÜZESİ"
+        ]
+    },
+    "122C": {
+        "district": "Şişli",
+        "stops": [
+            "ÜMRANİYE - TEPEÜSTÜ",
+            "BEYKOZ - KAVACIK",
+            "ŞİŞLİ - LEVENT",
+            "ŞİŞLİ - ZİNCİRLİKUYU",
+            "ŞİŞLİ - ALİ SAMİ YEN",
+            "ŞİŞLİ - MECİDİYEKÖY VİYADÜK"
+        ]
+    },
+    "12": {
+        "district": "Şişli",
+        "stops": [
+            "KADIKÖY - KADIKÖY",
+            "KADIKÖY - AYRILIKÇEŞMESİ MARMARAY",
+            "ÜSKÜDAR - KARACAHMET",
+            "ÜSKÜDAR - DOĞANCILAR",
+            "ÜSKÜDAR - AHMEDİYE",
+            "ÜSKÜDAR - ÜSKÜDAR MARMARAY"
+        ]
+    }
+}
