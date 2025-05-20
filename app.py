@@ -6,7 +6,7 @@ import folium
 from streamlit_folium import st_folium
 
 # --- TomTom API Ayarı ---
-TOMTOM_API_KEY = "Nvn1aAEUcgG7ngYu1HXEcVrfLiRfHkgl"
+TOMTOM_API_KEY = "GReUWZDvni00hRkWoGCKgSl2tR1GqN4R"
 
 # --- Otobüs Hatları Verisi (Direkt Kod İçine Gömüldü) ---
 bus_lines = {
